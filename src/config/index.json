@@ -36,7 +36,7 @@
     "items": [
       {
         "title": "Productos",
-        "description": "Nos dedicamos a ofrecer prendas y accesorios que combinan lo último en tendencias con un toque de elegancia.",
+        "description": "Nos dedicamos a ofrecer variedad de productos como prendas, accesorios, productos para el hogar entre otros que combinan lo último en tendencias con un toque de elegancia.",
         "img": "/assets/images/2.png"
       },
       {
@@ -53,18 +53,18 @@
     "items": [
       {
         "name": "Número",
-        "description": "+57 300 123456",
+        "description": "+57 322 8318596",
         "icon": "/assets/images/phone.png"
       },
       {
         "name": "Email",
-        "description": "minegocio@gmail.com",
+        "description": "Samiurbano1986@hotmail.com",
         "icon": "/assets/images/email.png"
       },
       {
-        "name": "Instagram",
-        "description": "@MiNegocio",
-        "icon": "/assets/images/insta.png"
+        "name": "Facebook",
+        "description": "Fashion y Pretty",
+        "icon": "/assets/images/facebook.jpg"
       },
       {
         "name": "Facebook",
